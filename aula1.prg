@@ -1,5 +1,6 @@
-//Meu primeiro programa em harbour
+//E se não pular a linha?
 FUNCTION Main()
-    QOut("Olá, mundo!")
-    QOut("Bem vindo(a) à jornada DEV START")
+    QQout("Linha 1") //pula linha no final
+    QQout("Sem ") // Não pule
+    QQout("pular linha")
 RETURN NIL
