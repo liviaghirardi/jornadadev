@@ -1,0 +1,11 @@
+FUNCTION Main()
+    QOut("=======================")
+    QOut(" FICHA DE APRESENTAÇÃO ")
+    Qout("======================")
+    Qout("Nome: Lívia Ghirardi")
+    Qout("Cidade: Sorocaba")
+    Qout("Curso: Harbour/ADVPL")
+    Qout("======================")
+    QOut("Data atual: " + DToC(Date()))
+    QOut("Hora atual: " + Time())
+RETURN NIL
