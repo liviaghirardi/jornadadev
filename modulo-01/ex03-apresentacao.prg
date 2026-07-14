@@ -7,12 +7,3 @@ FUNCTION Main()
     Qout("Curso: Harbour/ADVPL")
     Qout("======================")
 RETURN NIL
-FUNCTION Main()
-    QOut("=======================")
-    QOut(" FICHA DE APRESENTAÇÃO ")
-    Qout("======================")
-    Qout("Nome: Lívia Ghirardi")
-    Qout("Cidade: Sorocaba")
-    Qout("Curso: Harbour/ADVPL")
-    Qout("======================")
-RETURN NIL
