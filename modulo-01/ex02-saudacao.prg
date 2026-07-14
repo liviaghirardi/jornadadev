@@ -1,4 +1,4 @@
 FUNCTION Main()
-    LOCAL cNone := "Maria"
+    LOCAL cNome := "Maria"
     Qout("Nome: " + cNome)
 RETURN NIL
